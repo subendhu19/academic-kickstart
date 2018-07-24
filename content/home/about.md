@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Healthcare Informatics",
+    "Software Engineering",
+    "Programming Languages"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS/PhD in Computer Science"
+  institution = "University of Massachusetts Amherst"
+  year = current
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Tech in Computer Science and Engineering"
+  institution = "Indian Institute of Technology Madras"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first year computer science graduate student at UMass Amherst. My research consists of two major tracks. I work with Prof. Hong Yu on healthcare applications of machine learning. I also work with Prof. Yuriy Brun and Prof. Arjun Guha on projects in the intersection of software engineering and programming languages. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My current project with Prof. Hong is on reliable and interpretable prediction of critical patient events like mortality, bleeding, and heart failure, using electronic health records. Our most recent submission from this work was in the BOOM workshop at IJCAI-ECAI 2018.
+
+With Prof. Yuriy and Prof. Arjun, I am working on a code completion tool for the formal verification language - Coq.
