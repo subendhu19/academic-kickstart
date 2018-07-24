@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Subendhu Rongali"
-  role = "Graduate student in Computer Science"
+  role = "Graduate student in CS"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -67,7 +67,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Official.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "srongali@cs.umass.edu"
-  address = "College of Information and Computer Science, 190 Governers Drive, Amherst MA 01003"
+  address = "College of Information and Computer Sciences, 140 Governors Dr, Amherst MA 01003"
   phone = "608 622 1669"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
