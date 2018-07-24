@@ -17,10 +17,6 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "MS/PhD in Computer Science"
-  institution = "University of Massachusetts Amherst"
-  year = current
 
 [[education.courses]]
   course = "B.Tech in Computer Science and Engineering"
