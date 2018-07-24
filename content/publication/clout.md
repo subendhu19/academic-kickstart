@@ -1,7 +1,5 @@
 +++
-title = "Learning Latent Space Representation with Correlational
-Neural Network to Predict Patient Outcome using
-Electronic Health Records"
+title = "Learning Latent Space Representation with Correlational Neural Network to Predict Patient Outcome using Electronic Health Records"
 
 # Date first published.
 date = "2018-07-13"
@@ -25,22 +23,8 @@ publication = "In *3rd International workshop on Biomedical Informatics with Opt
 publication_short = "In *IJCAI-BOOM*"
 
 # Abstract and optional shortened version.
-abstract = "Predicting clinical outcomes using longitudinal
-electronic health record (EHRs) data is a clinically
-important and computationally challenging task. In
-this study, we report CLOUT, an LSTM-based predictive
-model, which uses a correlational neural
-network model to identify a latent space representation
-of three clinical features - ICD codes, labs, and
-medications during a patient’s encounter. Experiments
-on the MIMIC-III dataset show that CLOUT
-improves performance on predicting patient mortality,
-surpassing previous state-of-the-art models."
-abstract_short = "In this study, we report CLOUT, an LSTM-based predictive
-model, which uses a correlational neural
-network model to identify a latent space representation
-of three clinical features - ICD codes, labs, and
-medications during a patient’s encounter."
+abstract = "Predicting clinical outcomes using longitudinal electronic health record (EHRs) data is a clinically important and computationally challenging task. In this study, we report CLOUT, an LSTM-based predictive model, which uses a correlational neural network model to identify a latent space representation of three clinical features - ICD codes, labs, and medications during a patient’s encounter. Experiments on the MIMIC-III dataset show that CLOUT improves performance on predicting patient mortality, surpassing previous state-of-the-art models."
+abstract_short = "In this study, we report CLOUT, an LSTM-based predictive model, which uses a correlational neural network model to identify a latent space representation of three clinical features - ICD codes, labs, and medications during a patient’s encounter."
 
 # Featured image thumbnail (optional)
 image_preview = ""
