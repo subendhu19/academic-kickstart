@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Massachusetts Amherst", url = "https://www.umass.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Official.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "srongali@cs.umass.edu"
   address = "College of Information and Computer Science, 190 Governers Drive, Amherst MA 01003"
   phone = "608 622 1669"
