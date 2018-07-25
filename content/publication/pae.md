@@ -38,7 +38,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/Vijay_Arya/publication/300418427_A_context_vector_regression_based_approach_for_demand_forecasting_in_district_heating_networks/links/57da744b08aeea1959319937/A-context-vector-regression-based-approach-for-demand-forecasting-in-district-heating-networks.pdf"
+url_pdf = "http://www.cse.iitm.ac.in/~ravi/papers/Subendhu_CoDS15.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
