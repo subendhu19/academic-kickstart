@@ -15,4 +15,6 @@ weight = 60
 
 +++
 
-Teaching Assistant, Artifical Intelligence COMPSCI-383 with Prof. Phil Thomas, Spring 2018
+Teaching Assistant, Software Engineering COMPSCI 320 with Prof. Gordon Anderson, Fall 2019
+Teaching Assistant, Programming Methodology COMPSCI 220 with Prof. Arjun Guha, Spring 2019
+Teaching Assistant, Artifical Intelligence COMPSCI 383 with Prof. Phil Thomas, Spring 2018
